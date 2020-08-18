@@ -9,6 +9,6 @@ def my_each(argument)
     
     argument
   else 
-    puts "?"
+     return "No argument given"
   end
 end
